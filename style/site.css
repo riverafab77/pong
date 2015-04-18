@@ -1,0 +1,73 @@
+@font-face {
+    font-family: Font1;
+    src: url(font1.ttf);
+}
+@font-face {
+    font-family: Font2;
+    src: url(font2.ttf);
+}
+
+body{
+    font-family: "Segoe UI light", "Segoe UI", sans-serif;
+
+    background-color: #424242;
+    padding: 5%;
+    padding-top: 25px;
+    color: white;
+
+    text-align: center;
+}
+
+h1{
+    font-family: Font1;
+    font-size: 72px;
+}
+
+h2{
+    font-family: Font2;
+    font-size: 38px;
+}
+
+k{
+    border-radius: 5px;
+    border-top: solid #9E9E9E;
+    border-right: solid #9E9E9E;
+    font-family: Font2;
+    background-color: #F5F5F5;
+    padding: 7px;
+    color: black;
+
+    cursor: pointer;
+
+    transition: box-shadow .3s;
+}
+hr{
+    padding: 0;
+    border: none;
+    border-top: medium double #fff;
+    color: #fff;
+    text-align: center;
+}
+hr:after{
+    content: "Fabrizzio Rivera";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: #424242;
+}
+
+k:hover{
+    box-shadow: 0 0 17px 0 rgba(255, 255, 255, 1);
+}
+
+.container{
+    background-color: #303030;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+img{
+    border-radius: 6px;
+}

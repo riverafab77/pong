@@ -1,0 +1,11 @@
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\bin\Debug\pong.exe.config
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\bin\Debug\pong.exe
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\bin\Debug\pong.pdb
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\bin\Debug\pong.xml
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.Form1.resources
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.Resources.resources
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.vbproj.GenerateResource.Cache
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.exe
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.xml
+c:\users\fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.pdb
+C:\Users\Fabrizzio\documents\visual studio 2013\Projects\pong\pong\obj\Debug\pong.vbprojResolveAssemblyReference.cache
